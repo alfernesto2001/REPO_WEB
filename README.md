@@ -1,3 +1,5 @@
 # REPO_WEB_ALF
 
-Sere experto
+Lindo curso de desarrollo web.
+Pronto sere un experto
+voy a ganar mucho dinero que mi profesor
